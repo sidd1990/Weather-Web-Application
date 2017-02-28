@@ -1,0 +1,87 @@
+﻿body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.centeredPanel{
+    width:500px;
+    height:500px;
+    position:absolute;
+    left:50%; 
+    top:50%; 
+    margin-left:-250px; 
+    margin-top:-250px;
+}
+
+.full {
+    background: url('../img/initial.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Thunderstorm {
+    background: url('../img/Thunderstorm.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Drizzle {
+    background: url('../img/Drizzle.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Rain {
+    background: url('../img/Rain.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Snow {
+    background: url('../img/Snow.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Clear {
+    background: url('../img/Clear.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Atmosphere {
+    background: url('../img/Atmosphere.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Cloudy {
+    background: url('../img/Cloudy.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Extreme {
+    background: url('../img/Extreme.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
